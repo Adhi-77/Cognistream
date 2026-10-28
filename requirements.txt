@@ -1,0 +1,5 @@
+polars
+clickhouse-connect
+python-dotenv
+pytest
+requests
