@@ -3,3 +3,6 @@ clickhouse-connect
 python-dotenv
 pytest
 requests
+dashboard
+charts
+results
