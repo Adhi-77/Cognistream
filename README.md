@@ -43,3 +43,21 @@ DATA SOURCES
            REACT DASHBOARD
               + TREMOR
           Interactive Visualizations
+
+
+              Mock Event Sources
+                    |
+                    ▼
+              clean_events.py
+                    |
+                    ▼
+              cleaned_events.csv
+                    |
+                    ▼
+              load_to_clickhouse.py
+                    |
+                    ▼
+              ClickHouse developer_events
+                    |
+                    ▼
+              SQL Verification
